@@ -1,1 +1,1 @@
-# PaintJS
+# PaintCanvas
